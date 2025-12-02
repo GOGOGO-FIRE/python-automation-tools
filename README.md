@@ -7,7 +7,7 @@ Here are some free tools I built to make your life easier.
 
 ## ☕ Support Me
 If you like my code, you can treat me a coffee!
-*(Nanti disini kita taruh link Ko-fi lu)*
+(https://ko-fi.com/zidanegunawan24)
 
 ## 💼 Need Custom Bot?
 I'm available for hire! Check my services on Fiverr:
