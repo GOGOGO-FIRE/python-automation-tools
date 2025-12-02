@@ -1,2 +1,14 @@
-# python-automation-tools
-Script Python for automation administration &amp; marketing
+# 🐱 Python Automation Tools
+
+Hi! I'm **Zidan**, a Python Developer who loves automating boring tasks.
+Here are some free tools I built to make your life easier.
+
+## 📂 The Tools (Free to Use)
+
+## ☕ Support Me
+If you like my code, you can treat me a coffee!
+*(Nanti disini kita taruh link Ko-fi lu)*
+
+## 💼 Need Custom Bot?
+I'm available for hire! Check my services on Fiverr:
+👉 **[My Fiverr Profile](https://www.fiverr.com/helliourz)**
